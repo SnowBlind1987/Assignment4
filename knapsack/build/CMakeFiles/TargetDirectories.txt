@@ -1,0 +1,1 @@
+/home/andreyev/SchoolWork/Data_Structure_Algorithms/Algorithms/Assignment4/knapsack/build/CMakeFiles/knap.dir
